@@ -1,11 +1,11 @@
-# @hoangdevnull/eslint-next-config
+# @hoangdevnull/eslint-config-next
 
 This package provides an ESLint configuration tailored for Next.js projects, integrating both Prettier and Tailwind CSS. Ensure that [Prettier](https://prettier.io/) and [Tailwindcss](https://tailwindcss.com/) are installed in your project before proceeding.
 
 ## Installation
 
 ```shell
-npm install -D @hoangdevnull/eslint-next-config
+npm install -D @hoangdevnull/eslint-config-next
 ```
 
 This command installs the package along with all necessary peer dependencies.
@@ -16,8 +16,8 @@ After installation, set up the ESLint configurreating a file named .eslintrc.js 
 
 ```js
 module.exports = {
-  extends: ["@hoangdevnull/eslint-next-config"],
+  extends: ["@hoangdevnull/eslint-config-next"],
 };
 ```
 
-This setup will incorporate the custom ESLint rules provided by @hoangdevnull/eslint-next-config into your project, enabling a consistent coding style that leverages the best practices of Next.js, Prettier, and Tailwind CSS.
+This setup will incorporate the custom ESLint rules provided by @hoangdevnull/eslint-config-next into your project, enabling a consistent coding style that leverages the best practices of Next.js, Prettier, and Tailwind CSS.

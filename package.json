@@ -1,9 +1,9 @@
 {
-  "name": "@hoangdevnull/eslint-next-config",
+  "name": "@hoangdevnull/eslint-config-next",
   "description": "ESLint configuration for front-end projects.",
   "main": "index.js",
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "files": [
     "README.md",
     "index.js"
