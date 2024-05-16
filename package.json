@@ -3,7 +3,7 @@
   "description": "ESLint configuration for front-end projects.",
   "main": "index.js",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "files": [
     "README.md",
     "index.js"
