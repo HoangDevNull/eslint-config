@@ -1,5 +1,5 @@
 {
-  "name": "@hdn/eslint-next-config",
+  "name": "@hoangdevnull/eslint-next-config",
   "description": "ESLint configuration for front-end projects.",
   "main": "index.js",
   "license": "MIT",
