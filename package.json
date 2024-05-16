@@ -25,12 +25,9 @@
     "eslint-plugin-unused-imports": "2.0.0",
     "next": "^14.2.3"
   },
+  "repository": "https://github.com/HoangDevNull/eslint-next-config",
   "publishConfig": {
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HoangDevNull/eslint-next-config.git"
   },
   "keywords": [
     "eslint",
