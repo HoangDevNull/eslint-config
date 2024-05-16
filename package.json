@@ -3,7 +3,11 @@
   "description": "ESLint configuration for front-end projects.",
   "main": "index.js",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "files": [
+    "README.md",
+    "index.js"
+  ],
   "scripts": {
     "clean": "rm -rf node_modules",
     "lint": "./node_modules/.bin/eslint ."
