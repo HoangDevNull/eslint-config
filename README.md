@@ -12,7 +12,7 @@ This command installs the package along with all necessary peer dependencies.
 
 ## Configuration
 
-After installation, set up the ESLint configuration by creating a file named .eslintrc.js in the root directory of your Next.js project. Populate this file with the following code to extend the ESLint rules from this package:
+After installation, set up the ESLint configurreating a file named .eslintrc.js in the root directory of your Next.js project. Populate this file with the following code to extend the ESLint rules from this package:ation by c
 
 ```js
 module.exports = {
